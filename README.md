@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcalven/hotel-price-prediction.git/master?filepath=exploration.ipynb)
