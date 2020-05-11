@@ -1,0 +1,7 @@
+name: hotel-price-prediction
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
